@@ -1,16 +1,4 @@
 -- Inisialisasi variabel global
-getgenv().themes = {
-    "Solid Dark",
-    "Aqua",
-    "Dark Ocean",
-    "Gold",
-    "Jungle",
-    "Blood"
-}
-
-getgenv().realScript = "https://github.com/raw_script_url_here"
-getgenv().scriptName = "My Script Name"
-getgenv().discordLink = "https://discord.gg/yourdiscordlink"
 
 -- Warna untuk masing-masing tema
 local themeColors = {
